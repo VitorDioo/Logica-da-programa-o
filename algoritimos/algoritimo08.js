@@ -6,8 +6,9 @@
 
 // ----->
 
-var num1 = 4;
-var num2 = 5;
-var txt = "4-5:"
+var num1 = 10;
+var num2 = 15;
+var num4 = 30;
+var txt = "10+15+30:"
 
-console.log(txt, num1 - num2)
+console.log(txt, num1 + num2 + num4)

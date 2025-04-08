@@ -6,8 +6,7 @@
 
 // ----->
 
-var num1 = 4;
-var num2 = 5;
-var txt = "4-5:"
+var num1 = 5;
+var txt = "5^2:"
 
-console.log(txt, num1 - num2)
+console.log(txt, num1 ** 2)
